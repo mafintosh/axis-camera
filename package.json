@@ -1,0 +1,25 @@
+{
+  "name": "axis-camera",
+  "version": "0.0.0",
+  "description": "Client for the Axis Network camera",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.55.0"
+  },
+  "devDependencies": {
+    "standard": "^3.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/axis-camera.git"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/axis-camera/issues"
+  },
+  "homepage": "https://github.com/mafintosh/axis-camera"
+}
