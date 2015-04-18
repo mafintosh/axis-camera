@@ -1,6 +1,6 @@
 {
   "name": "axis-camera",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Client for the Axis Network camera",
   "main": "index.js",
   "dependencies": {
